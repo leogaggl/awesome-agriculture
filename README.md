@@ -88,6 +88,9 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 - [Tania](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
 - [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+- [GrowGood](https://gitlab.com/growgood)) - An emerging open-source farm management platform built on open standards like ValueFlows and JSON-LD, enabling a non-proprietary digital commons where interoperable data captures farm operations and externalities while supporting transparent, meaningful storytelling across the food system.
+
+
 
 ## Geospatial and GIS
 
