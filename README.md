@@ -30,7 +30,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [FarmBot](https://github.com/farmbot) - Open source precision gardening project.
 - [FarmBot-ROS](https://github.com/farmbot-ros/) - Open source farming robot.
 - [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
-- [Field Friend](https://github.com/zauberzeug/field_friend) - A Development Platform for Autonomous Weeding. 
+- [Field Friend](https://github.com/zauberzeug/feldfreund_devkit) - Agricultural weeding robot 'Feldfreund' is based on this platform and is intended to advance organic and regenerative agriculture. 
 - [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project 
 - [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
 - [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
@@ -86,7 +86,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 - [Ekylibre](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 - [farmOS](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
-- [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
+- [GrowGood](https://gitlab.com/growgood) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
 - [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 - [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 - [Tania](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
